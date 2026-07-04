@@ -6,5 +6,5 @@ while num  > 0:
     reverse = reverse * 10 + digit
     num = num // 10
     
-    print("reverse number =", reverse)
+print("reverse number =", reverse)
 
